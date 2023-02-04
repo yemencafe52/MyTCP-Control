@@ -1,0 +1,15 @@
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\bin\Release\Chat.exe.config
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\bin\Release\Chat.exe
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\bin\Release\Chat.pdb
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\bin\Release\MyTCPClient.dll
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\bin\Release\MyTCPServer.dll
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\bin\Release\MyTCPClient.pdb
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\bin\Release\MyTCPServer.pdb
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\obj\Release\Chat.csprojAssemblyReference.cache
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\obj\Release\Chat.frmClient.resources
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\obj\Release\Chat.frmServer.resources
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\obj\Release\Chat.Properties.Resources.resources
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\obj\Release\Chat.csproj.GenerateResource.cache
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\obj\Release\Chat.csproj.CopyComplete
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\obj\Release\Chat.exe
+C:\Users\UsEr\Desktop\MyTCPControl\MyTCPControl\Chat\obj\Release\Chat.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>MyTCPClientControlLib</id>
+    <version>1.0.0.1</version>
+    <title>MyTCPClientControlLib</title>
+    <authors>YC Team</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>http://github.com/yemencafe52</projectUrl>
+    <description>MyTCPClientControlLib</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>2023</copyright>
+    <tags>MyTCPClientControlLib</tags>
+  </metadata>
+</package>

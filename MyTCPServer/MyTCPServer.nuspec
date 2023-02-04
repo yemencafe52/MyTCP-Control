@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>MyTCPServerControlLib</id>
+    <version>1.0.0.1</version>
+    <title>MyTCPServer Control</title>
+    <authors>YC Team</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/yemencafe52</projectUrl>
+    <description>MyTCP Server Control</description>
+    <releaseNotes></releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>YC Team</tags>
+  </metadata>
+  
+  <files>
+  <file src="bin\release\MyTCPServer.dll" target="lib"></file>
+  </files>
+</package>
